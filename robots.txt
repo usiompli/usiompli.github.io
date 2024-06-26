@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://usiompli.github.io/sitemap
+Sitemap: https://usiompli.github.io/app/sitemap
+Sitemap: https://usiompli.github.io/assets/sitemap
+Sitemap: https://usiompli.github.io/css/sitemap
+Sitemap: https://usiompli.github.io/includes/sitemap
+Sitemap: https://usiompli.github.io/item/sitemap
+Sitemap: https://usiompli.github.io/src/sitemap
